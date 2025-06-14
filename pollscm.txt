@@ -1,3 +1,5 @@
 hello jenkins!!
 
 poll scm : this method checks the repo for every given specific time in jenkins job and trigger the build only if there are some changes.
+
+webhook method of jenkins
